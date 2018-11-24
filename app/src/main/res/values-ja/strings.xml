@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">New2</string>
+    <string name="hello_world">ハローワールド</string>
+    <string name="language_chioce_title">言語</string>
+    <string name="language_save">保存</string>
+    <string name="lan_chinese">中国語</string>
+    <string name="lan_en">英語</string>
+    <string name="lan_ja">日本語</string>
+    <string name="lan_ko">ドイツ語</string>
+    <string name="text_content">これがコンテンツの表示領域です</string>
+    <string name="select_language">言語を選択する</string>
+    <string name="jump">飛び回る</string>
+</resources>

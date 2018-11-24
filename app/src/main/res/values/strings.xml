@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">New2</string>
+    <string name="hello_world">你好</string>
+    <string name="language_chioce_title">语言</string>
+    <string name="language_save">保存</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="lan_chinese">中文</string>
+    <string name="lan_en">英文</string>
+    <string name="lan_ja">日语</string>
+    <string name="lan_ko">韩语</string>
+    <string name="text_content">这是内容显示区</string>
+    <string name="select_language">选择一个语言</string>
+    <string name="jump">跳转</string>
+</resources>

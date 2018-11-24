@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">New2</string>
+    <string name="hello_world">안녕하세요, 세계</string>
+    <string name="language_chioce_title">언어</string>
+    <string name="language_save">保存</string>
+
+
+    <string name="lan_chinese">중문</string>
+    <string name="lan_en">영어</string>
+    <string name="lan_ja">일본어.</string>
+    <string name="lan_ko">독일어</string>
+    <string name="text_content">이것은 내용의 디스플레이 구역이다</string>
+    <string name="select_language">언어 선택</string>
+    <string name="jump">다이빙</string>
+</resources>
